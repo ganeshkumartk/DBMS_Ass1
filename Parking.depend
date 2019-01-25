@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1548387964 source:c:\users\ganeshcodes\parking\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
