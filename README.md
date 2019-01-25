@@ -5,10 +5,10 @@ This project is developed in Code::Blocks IDE and tested in both Ubuntu GCC comp
 
 # Credits:
     
-     Ganesh Kumar T K
-     Dhilipan S
-     Vijay Gowthaman
-     Chandralekha R
+     Ganesh Kumar T K (MSM17B034)
+     Dhilipan S (MSM17B002)
+     Vijay Gowthaman (MSM17B017)
+     Chandralekha R (MSM17B027)
 
 # Instructions
 
