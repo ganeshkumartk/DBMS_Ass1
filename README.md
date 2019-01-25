@@ -3,12 +3,6 @@ Car Parking management System using C with help of file structures done as a par
 
 This project is developed in Code::Blocks IDE and tested in both Ubuntu GCC compiler and Win32 Compiler.
 
-# Credits:
-    
-     Ganesh Kumar T K (MSM17B034)
-     Dhilipan S (MSM17B002)
-     Vijay Gowthaman (MSM17B017)
-     Chandralekha R (MSM17B027)
 
 # Instructions
 
@@ -21,3 +15,11 @@ For linux:
 
 NOTE: Username: user
       Password: pass
+      
+# Credits:
+    
+     Ganesh Kumar T K (MSM17B034)
+     Dhilipan S (MSM17B002)
+     Vijay Gowthaman (MSM17B017)
+     Chandralekha R (MSM17B027)
+      
